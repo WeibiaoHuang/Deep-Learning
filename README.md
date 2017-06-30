@@ -1,6 +1,6 @@
-<div style="text-align:center"><img src ="http://i.imgur.com/dI2Q3hn.png" /></div>
+<div style="text-align:center"><img src ="img/AI.gif" /></div>
 
-# Machine Learning Curriculum
+# Party on Machine Learning!!
 
 Machine Learning is a branch of Artificial Intelligence dedicated at making
 machines learn from observational data without being explicitly programmed. 
@@ -28,7 +28,7 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [ML Recipes - YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) a really nicely designed concrete actionable content for ML introduction
 * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) simple approach to machine learning for non-maths people
 * [Machine Learning with Python - YouTube Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-* [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
+* [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/) [[draft]](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf)
 * [Machine Learning Crash Course: Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 * [https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv)
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
@@ -53,7 +53,7 @@ Deep learning is a branch of machine learning where deep artificial neural
 networks (DNN) — algorithms inspired by the way neurons work in the brain — find
 patterns in raw data by combining multiple layers of artificial neurons. As the
 layers increase, so does the neural network’s ability to learn increasingly
-abstract concepts.
+abstract concepts. So fundementally Deep Learning is just a special category of machine learning, with deep network. But with increased layers, vanishing gradient problems might exit, which requires special network design to solve it, e.g. LSTM, Identity mapping in ResNet. 
 
 The simplest kind of DNN is
 a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
@@ -100,7 +100,7 @@ invariance. For example, given an image, it might be useful to detect the same
 kind of edges everywhere on the image.
 They are sometimes called **convnets** or **CNNs**.
 
-* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) a course taught at Stanford university
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) a course taught at Stanford university - **My first video to learn deep learning, which explain many fundamental concepts in deep learning.**
 * [How Convolutional Neural Networks work - Youtube](https://www.youtube.com/watch?v=FmpDIaiMIeA) technical
   explanation including pooling operations, ReLU, fully connected layer,
   optimization using gradient descent
